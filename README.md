@@ -1,3 +1,8 @@
+# 진행 내역
+|날짜|내역|
+|:-:|:-:|
+|05.12|리액트로 Todo-List 만들기 위해 내부 구조 확인 및 일부 코드 변경 및 테스트|
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
