@@ -40,3 +40,9 @@
 .read-the-docs {
   color: #888;
 }
+
+.title {
+  color: cornflowerblue;
+  font-size: 2em;
+  text-align: center;
+}
