@@ -50,9 +50,25 @@
 .container {
   background: #646cff;
   color: rgb(4, 80, 4);
-  font-size: 40px;
+  /*font-size: 40px;*/
   font-weight: bold;
   padding: 20px;
   text-align: center;
   max-width: 800px;
+}
+
+.titlebk {
+  background-color: black;
+  width: 100%;
+  padding: 20px;
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+.board {
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+  padding: 12px;
 }
